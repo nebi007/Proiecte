@@ -1,0 +1,3 @@
+3,plm,badi,fantasy
+1,aladin,adi,fantasy
+2,altceva,totadi,horror
